@@ -10,3 +10,4 @@ Para este casó se usó WebGL con la librería de ThreeJS ya que es una manera m
 
 2. Ya despues de eso ir a la terminal y crear un proyecto usando cualquier framework que se deseé o algo simple, como usar vite1:
     - Ejecutar el siguiente comando: npm create vite@latest y despues elegir las opciones que se gusten, en este caso las siguientes como se muestra en la imágen:
+    ![Ejemplo de instalación](https://raw.githubusercontent.com/S4vianR/Graficacion/main/assets/EjemploInstalacion.png)
